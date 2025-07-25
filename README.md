@@ -1,7 +1,7 @@
  Hi, I'm Paria — a self-taught Automotive Software Engineer!
 
 Automotive Systems Programmer | Full-Stack Developer 
-📍Based in Iran | Focused on smart vehicle technology and embedded systems
+Based in Iran | Focused on smart vehicle technology and embedded systems
 
 
 About Me:
@@ -24,4 +24,24 @@ Tools & Platforms: Git, GitHub, Linux, Figma, Postman, VS Code
 
 Featured Projects:
 
-[ABS Braking System Simulator](https://github.com/pariarahdari/abs-simulator)
+(https://github.com/pariarahdari/abs-simulator)  
+
+(https://github.com/pariarahdari/can-bus-visualizer)  
+
+(https://github.com/pariarahdari/ecu-diagnostic)  
+
+(https://github.com/pariarahdari/vehicle-telematics-platform)  
+
+
+My Value:
+I aim to bridge the gap between hardware and intelligent software  
+making vehicles smarter, safer, and more efficient.
+
+
+Let's Connect:
+
+Email: pariarahdari0@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/pariarahdari)
+
+
+> 🚘Cars + Code = My Calling*
