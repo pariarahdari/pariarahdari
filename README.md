@@ -24,13 +24,11 @@ Tools & Platforms: Git, GitHub, Linux, Figma, Postman, VS Code
 
 Featured Projects:
 
-(https://github.com/pariarahdari/abs-simulator)  
+(https://github.com/pariarahdari/self-driving-object-detection)  
 
-(https://github.com/pariarahdari/can-bus-visualizer)  
+(https://github.com/pariarahdari/ABS-simulator-system)  
 
-(https://github.com/pariarahdari/ecu-diagnostic)  
-
-(https://github.com/pariarahdari/vehicle-telematics-platform)  
+(https://github.com/pariarahdari/fuel_route_optimization)  
 
 
 My Value:
